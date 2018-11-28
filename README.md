@@ -5,5 +5,5 @@
 
 
 
-[阅读路径](https://c-dafan.gitbooks.io/cnn/content/)
+[阅读路径](https://c-dafan.gitbooks.io/image_paper_note/content/)
 
