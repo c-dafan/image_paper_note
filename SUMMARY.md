@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [第一章 图像识别](chapter1.md)
-  * [section 1  AlexNet](chapter1/1st-alexnet.md)
+  * [section 1  AlexNet](chapter1/section-1-alexnet.md)
   * [section 2 OverFeat](chapter1/section-2-overfeat.md)
   * [section 3 VggNet](chapter1/section-3-vggnet.md)
   * [section 4 GoogLeNet](chapter1/section-4-googlenet.md)
