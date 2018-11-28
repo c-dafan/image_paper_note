@@ -6,7 +6,7 @@
   * section 2 OverFeat
   * section 3 VggNet
   * section 4 GoogLeNet
-  * Inception V3
-  * ResNet
+  * section 5 Inception V3
+  * section 6 ResNet
 * [第二章 目标检测](chapter2.md)
 
