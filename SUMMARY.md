@@ -8,5 +8,5 @@
   * section 4 GoogLeNet
   * Inception V3
   * ResNet
-* [第二章 目标检测](di-er-zhang.md)
+* [第二章 目标检测](chapter2.md)
 
