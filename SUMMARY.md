@@ -16,6 +16,6 @@
   * [section 5 YOLO](chapter2/section-5-yolo.md)
   * [section 6 SSD](chapter2/section-6-ssd.md)
   * [section 7 YOLO v3](chapter2/section-7-yolo-v3.md)
-* [第三章 图像标题生成](chapter 3.md)
-  * [hhh](chapter 3/hhh.md)
+* [第三章 图像标题生成](chapter3.md)
+  * [hhh](chapter3/hhh.md)
 
