@@ -10,7 +10,7 @@
   * section 6 ResNet
 * [第二章 目标检测](chapter2.md)
   * [section 1 OverFeat](chapter2/overfeat.md)
-  * section 2 R-CNN
+  * [section 2 R-CNN](chapter2/section-2-r-cnn.md)
   * section 3 Fast R-CNN
   * section 4 Faster R-CNN
   * section 5 YOLO
