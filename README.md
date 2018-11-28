@@ -1,3 +1,4 @@
-# My Awesome Book
+# 我的毕设学习笔记
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这本书主要是我的笔记，也是我第一本书，可以当着学习gitbook的试验品。
+
